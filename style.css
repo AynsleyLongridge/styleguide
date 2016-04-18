@@ -1,0 +1,53 @@
+/* ----- CSS RESET ----- */
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+
+/*-------------*/
+
+img { 
+padding: 4;
+margin: 0;
+font-size: 100%;
+line-height: 1cm;
+}
+
+haed {margin: auto;
+    width: 100%;
+    
+}
+body { 
+            margin: auto;
+            width: 60%;
+           }
+
+img {width: 1900px;
+    margin-left: auto;align-content:center;
+    
+    }
+
+h1 {color: #EF504F;
+font-family: 'Glegoo', serif;
+    font-size: 5.2em;
+    padding-bottom: 0em;
+}
+h2{color: #EF504F;
+font-family: 'Glegoo', serif;
+    font-size: 4.8em;
+    padding-bottom:0em;
+}
+h3{color: #EF504F;
+font-family: 'Glegoo', serif;
+    font-size: 4.3em;
+    padding-bottom: .2em;
+}
+p{color: #EF504F;
+font-family: 'Glegoo', serif;
+    font-size: 3.2em;
+    
+}
+
