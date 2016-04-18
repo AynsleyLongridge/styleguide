@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1511px" height="1502px" viewBox="0 0 1511 1502" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 144</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M390.958096,490.056381 L656.950586,490.05639 L507.611326,946.430412 L107.503234,129.602836"></path>
+        <path id="path-2" d="M267.388427,456.374031 L0,456.374022 L149.33926,0 L549.354299,816.617961"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-144">
+            <rect id="Rectangle-532" fill="#B2B0B0" opacity="0.15467584" x="850" y="1226" width="227" height="32" rx="8"></rect>
+            <rect id="Rectangle-532" fill="#B2B0B0" opacity="0.15467584" x="420" y="1226" width="657" height="32" rx="8"></rect>
+            <g id="marque2" transform="translate(420.000000, 168.000000)">
+                <path d="M263.485716,456.374022 L0,456.374022 L149.33926,0 L550.255852,819.341032" id="back" stroke="#2F2F2F" stroke-width="33"></path>
+                <path d="M391.467601,490.625978 L654.953317,490.625978 L505.614058,947 L107.503234,135.677969" id="back" stroke="#2F2F2F" stroke-width="33"></path>
+                <g id="line">
+                    <use stroke="#2F2F2F" stroke-width="2" xlink:href="#path-1"></use>
+                    <use stroke="none" xlink:href="#path-1"></use>
+                </g>
+                <g id="line">
+                    <use stroke="#2F2F2F" stroke-width="2" xlink:href="#path-2"></use>
+                    <use stroke="none" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

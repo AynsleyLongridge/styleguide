@@ -25,7 +25,8 @@ body {
             width: 60%;
            }
 
-img {width: 1900px;
+img {width: 900px;
+    min-height: inherit;
     margin-left: auto;align-content:center;
     
     }

@@ -1,0 +1,62 @@
+/* ----- CSS RESET ----- */
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+/*--------nav----------*/
+nav {   
+        width: 100%;
+        position: absolute;
+        top: 0;
+        font-family: 'Glegoo' serif;
+        background-color:whitesmoke;
+        font-weight: 500em;
+        padding-top: 1.5em;
+        padding-bottom:1.5em;
+        position: fixed;
+        text-align: center;
+        z-index: 10;
+        opacity: 0.8;
+        }
+
+nav ul {
+    text-align: center;   
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 12px;
+        text-align:right;
+        font-family: "Cutive";
+        font-size: 0.6em;
+        }
+
+ li { display: inline;
+}
+
+a:link {
+        text-decoration: none;
+        font-size: 30em;
+        letter-spacing: 1px;
+        font-size: 200%;
+        vertical-align: middle;
+}
+        
+
+ a:link {
+        color: #EF504F;
+        
+}
+
+
+a:visited {
+        color:#EF504F;
+       }
+
+
+a:hover {
+    color:#F18C79;
+}

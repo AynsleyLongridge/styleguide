@@ -1,0 +1,22 @@
+/* ----- CSS RESET ----- */
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+
+#logo a{ 
+    text-align:center;
+    top:20px;
+    right:10px;
+    height:150px;
+    width:150px;
+    cursor:pointer;
+
+    background: url(visualmarque.svg) no-repeat;
+    display: block;
+}
+#logo a:hover{
+    background-position: 0 -150px;
+}
