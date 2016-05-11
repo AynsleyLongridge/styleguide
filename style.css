@@ -22,27 +22,7 @@ section{ height: 980px; }
 
 /*-------------*/
 
-img { 
-padding: 4;
-margin: 0;
-font-size: 100%;
-line-height: 1cm;
-}
 
-haed {margin: auto;
-    width: 100%;
-    
-}
-body { 
-            margin: auto;
-            width: 60%;
-           }
-
-img {width: 900px;
-    min-height: inherit;
-    margin-left: auto;align-content:center;
-    
-    }
 
 h1 {color: #EF504F;
 font-family: 'Glegoo', serif;
