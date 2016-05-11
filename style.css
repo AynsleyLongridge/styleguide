@@ -6,6 +6,19 @@
     line-height: 1em;
 }
 
+/*---------body sections----------*/
+body{
+  margin: 0px;
+  padding: 0px;}
+
+
+.red { background-color: #B23751; }
+.blue { background-color: #346CA5; }
+.green { background-color: #65B237; }
+.pink { background-color: #c0392b; }
+.black { background-color: #2c3e50; }
+
+section{ height: 980px; }
 
 /*-------------*/
 
