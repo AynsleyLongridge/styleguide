@@ -9,7 +9,9 @@
 /*---------body sections----------*/
 body{
   margin: 0px;
-  padding: 0px;}
+  padding: 0px;
+line-height: 2em;
+}
 
 
 .red { background-color: #FCFCFC; }
