@@ -10,7 +10,7 @@
 body{
   margin: 0px;
   padding: 0px;
-line-height: 2em;
+line-height: 3.5em;
 }
 
 
@@ -35,8 +35,8 @@ font-family: 'Glegoo', serif;
 }
 h2{color: #EF504F;
 font-family: 'Glegoo', serif;
-    margin:140px;
-    font-size: 2.8em;
+    margin:180px;
+    font-size: 2.6em;
     padding-bottom:0em;
 }
 h3{color: #EF504F;
@@ -45,9 +45,9 @@ font-family: 'Glegoo', serif;
     padding-bottom: .2em;
 }
 p{color: #EF504F;
-    margin:140px;
+    margin:180px;
 font-family: 'Glegoo', serif;
-    font-size: 1.7em;
+    font-size: 1.3em;
     
 }
 
