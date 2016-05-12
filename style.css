@@ -37,6 +37,7 @@ h2{color: #EF504F;
 font-family: 'Glegoo', serif;
     padding-right:180px;
     padding-left: 180px;
+    padding-bottom: 30px;
     font-size: 2.6em;
     padding-bottom:0em;
 }
@@ -48,8 +49,10 @@ font-family: 'Glegoo', serif;
 p{color: #EF504F;
     margin-left:180px;
     margin-right: 180px;
+    margin-top: 15px;
 font-family: 'Glegoo', serif;
     font-size: 1.3em;
+    line-height: 3px;
     
 }
 
